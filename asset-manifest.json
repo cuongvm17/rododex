@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rododex/static/css/main.51545d73.chunk.css",
+    "main.js": "/rododex/static/js/main.f06331dd.chunk.js",
+    "main.js.map": "/rododex/static/js/main.f06331dd.chunk.js.map",
+    "runtime-main.js": "/rododex/static/js/runtime-main.2c1a4524.js",
+    "runtime-main.js.map": "/rododex/static/js/runtime-main.2c1a4524.js.map",
+    "static/js/2.dfbca4df.chunk.js": "/rododex/static/js/2.dfbca4df.chunk.js",
+    "static/js/2.dfbca4df.chunk.js.map": "/rododex/static/js/2.dfbca4df.chunk.js.map",
+    "static/js/3.e09558a6.chunk.js": "/rododex/static/js/3.e09558a6.chunk.js",
+    "static/js/3.e09558a6.chunk.js.map": "/rododex/static/js/3.e09558a6.chunk.js.map",
+    "index.html": "/rododex/index.html",
+    "static/css/main.51545d73.chunk.css.map": "/rododex/static/css/main.51545d73.chunk.css.map",
+    "static/js/2.dfbca4df.chunk.js.LICENSE.txt": "/rododex/static/js/2.dfbca4df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c1a4524.js",
+    "static/js/2.dfbca4df.chunk.js",
+    "static/css/main.51545d73.chunk.css",
+    "static/js/main.f06331dd.chunk.js"
+  ]
+}
